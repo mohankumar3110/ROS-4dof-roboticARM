@@ -1,4 +1,4 @@
-# 🤖 Custom Robotic Arm — Software Stack (ROS 2 Jazzy + MoveIt 2)
+# Custom Robotic Arm — Software Stack (ROS 2 Jazzy + MoveIt 2)
 
 This repository contains the complete software pipeline for a custom robotic arm built using **ROS 2 Jazzy**, **MoveIt 2**, and **RViz 2**. It covers everything from robot description modeling all the way to motion planning in simulation, and is intended for learning, research, and prototyping purposes.
 
@@ -6,7 +6,7 @@ The project lives entirely on the **software side** (no hardware dependency requ
 
 ---
 
-## 🧭 Table of Contents
+##Table of Contents
 
 - [Project Overview](#project-overview)
 - [Workspace Structure](#workspace-structure)
